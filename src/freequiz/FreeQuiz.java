@@ -10,7 +10,8 @@ package freequiz;
 public class FreeQuiz {
 
     public static void main(String[] args) {
-        // TODO code application logic here
+        MainFrame hauptfenster = new MainFrame();
+        hauptfenster.show();
     }
     
 }
