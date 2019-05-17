@@ -12,6 +12,7 @@ public class FreeQuiz {
     public static void main(String[] args) {
         MainFrame hauptfenster = new MainFrame();
         hauptfenster.show();
+        System.out.println("ready.");
     }
     
 }
